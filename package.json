@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SongyiLee88/wetube-reloaded/issues"
   },
-  "homepage": "https://github.com/SongyiLee88/wetube-reloaded#readme"
+  "homepage": "https://github.com/SongyiLee88/wetube-reloaded#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
